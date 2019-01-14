@@ -1,0 +1,132 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`hides next button, shows previous button 1`] = `
+<div
+  className="MuiGrid-container-2 MuiGrid-justify-xs-space-between-21 SkPageStepper-root-1"
+>
+  <div
+    className="MuiGrid-item-3"
+  >
+    <div
+      className="Button__ButtonDiv-bnfrK cnBjlR"
+      onClick={[Function]}
+      onKeyPress={[Function]}
+      role="button"
+      tabIndex={0}
+      title={undefined}
+    >
+      <div>
+        Previous
+      </div>
+      <div
+        className="Button__SpinnerWrap-bgOcuM cCKgPo"
+        style={
+          Object {
+            "opacity": 0,
+            "paddingLeft": 0,
+            "width": 0,
+          }
+        }
+      />
+    </div>
+  </div>
+  <div
+    className="MuiGrid-item-3"
+  />
+</div>
+`;
+
+exports[`shows both next and previous buttons 1`] = `
+<div
+  className="MuiGrid-container-2 MuiGrid-justify-xs-space-between-21 SkPageStepper-root-1"
+>
+  <div
+    className="MuiGrid-item-3"
+  >
+    <div
+      className="Button__ButtonDiv-bnfrK cnBjlR"
+      onClick={[Function]}
+      onKeyPress={[Function]}
+      role="button"
+      tabIndex={0}
+      title={undefined}
+    >
+      <div>
+        Previous
+      </div>
+      <div
+        className="Button__SpinnerWrap-bgOcuM cCKgPo"
+        style={
+          Object {
+            "opacity": 0,
+            "paddingLeft": 0,
+            "width": 0,
+          }
+        }
+      />
+    </div>
+  </div>
+  <div
+    className="MuiGrid-item-3"
+  >
+    <div
+      className="Button__ButtonDiv-bnfrK cnBjlR"
+      onClick={[Function]}
+      onKeyPress={[Function]}
+      role="button"
+      tabIndex={0}
+      title={undefined}
+    >
+      <div>
+        Next
+      </div>
+      <div
+        className="Button__SpinnerWrap-bgOcuM cCKgPo"
+        style={
+          Object {
+            "opacity": 0,
+            "paddingLeft": 0,
+            "width": 0,
+          }
+        }
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`shows next button, hides previous button 1`] = `
+<div
+  className="MuiGrid-container-2 MuiGrid-justify-xs-space-between-21 SkPageStepper-root-1"
+>
+  <div
+    className="MuiGrid-item-3"
+  />
+  <div
+    className="MuiGrid-item-3"
+  >
+    <div
+      className="Button__ButtonDiv-bnfrK cnBjlR"
+      onClick={[Function]}
+      onKeyPress={[Function]}
+      role="button"
+      tabIndex={0}
+      title={undefined}
+    >
+      <div>
+        Next
+      </div>
+      <div
+        className="Button__SpinnerWrap-bgOcuM cCKgPo"
+        style={
+          Object {
+            "opacity": 0,
+            "paddingLeft": 0,
+            "width": 0,
+          }
+        }
+      />
+    </div>
+  </div>
+</div>
+`;

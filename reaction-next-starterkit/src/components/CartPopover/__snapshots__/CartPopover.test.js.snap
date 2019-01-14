@@ -1,0 +1,125 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`do not show cartpopover 1`] = `
+<div
+  className="HiddenCss-mdUp-16"
+>
+  <div
+    className="SkCartPopover-container-1 SkCartPopover-isContainerHidden-3"
+  >
+    <div
+      className="MuiGrid-container-24 MuiGrid-spacing-xs-24-48 SkCartPopover-gridContainer-2"
+    >
+      <div
+        className="MuiGrid-item-25 MuiGrid-grid-xs-12-64 SkCartPopover-containerItem-5"
+      >
+        <img
+          alt="Item Title"
+          className="SkCartPopover-addedToCartImg-6"
+          src="//placehold.it/100"
+        />
+        <span
+          className="MuiTypography-root-121 MuiTypography-body1-130 SkCartPopover-addedToCartText-8"
+        >
+          10
+           "
+          <span
+            className="SkCartPopover-addedToCartItemName-7"
+          >
+            Item Title
+          </span>
+          " added to cart
+        </span>
+      </div>
+      <div
+        className="MuiGrid-item-25 MuiGrid-grid-xs-12-64"
+      >
+        <div
+          className="Button__ButtonDiv-bnfrK eloVkm"
+          onClick={[Function]}
+          onKeyPress={[Function]}
+          role="button"
+          tabIndex={0}
+          title={undefined}
+        >
+          <div>
+            Checkout
+          </div>
+          <div
+            className="Button__SpinnerWrap-bgOcuM cCKgPo"
+            style={
+              Object {
+                "opacity": 0,
+                "paddingLeft": 0,
+                "width": 0,
+              }
+            }
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`show cartpopover 1`] = `
+<div
+  className="HiddenCss-mdUp-16"
+>
+  <div
+    className="SkCartPopover-container-1 SkCartPopover-isContainerVisible-4"
+  >
+    <div
+      className="MuiGrid-container-24 MuiGrid-spacing-xs-24-48 SkCartPopover-gridContainer-2"
+    >
+      <div
+        className="MuiGrid-item-25 MuiGrid-grid-xs-12-64 SkCartPopover-containerItem-5"
+      >
+        <img
+          alt="Item Title"
+          className="SkCartPopover-addedToCartImg-6"
+          src="//placehold.it/100"
+        />
+        <span
+          className="MuiTypography-root-121 MuiTypography-body1-130 SkCartPopover-addedToCartText-8"
+        >
+          10
+           "
+          <span
+            className="SkCartPopover-addedToCartItemName-7"
+          >
+            Item Title
+          </span>
+          " added to cart
+        </span>
+      </div>
+      <div
+        className="MuiGrid-item-25 MuiGrid-grid-xs-12-64"
+      >
+        <div
+          className="Button__ButtonDiv-bnfrK eloVkm"
+          onClick={[Function]}
+          onKeyPress={[Function]}
+          role="button"
+          tabIndex={0}
+          title={undefined}
+        >
+          <div>
+            Checkout
+          </div>
+          <div
+            className="Button__SpinnerWrap-bgOcuM cCKgPo"
+            style={
+              Object {
+                "opacity": 0,
+                "paddingLeft": 0,
+                "width": 0,
+              }
+            }
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

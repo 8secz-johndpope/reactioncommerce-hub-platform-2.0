@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`basic snapshot 1`] = `
+<button
+  className="MuiButtonBase-root-2 SkMediaGalleryItem-root-1"
+  disabled={undefined}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onKeyDown={[Function]}
+  onKeyUp={[Function]}
+  onMouseDown={[Function]}
+  onMouseLeave={[Function]}
+  onMouseUp={[Function]}
+  onTouchEnd={[Function]}
+  onTouchMove={[Function]}
+  onTouchStart={[Function]}
+  tabIndex="0"
+  type="button"
+>
+  <div
+    className="SkImg-imgWrapper-5 "
+  >
+    <img
+      alt=""
+      className="SkImg-img-7 SkImg-imgLoading-9 "
+      src="/resources/placeholder.gif"
+    />
+  </div>
+  <span
+    className="MuiTouchRipple-root-11"
+  />
+</button>
+`;

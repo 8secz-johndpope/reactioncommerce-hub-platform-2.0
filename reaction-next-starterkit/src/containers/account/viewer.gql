@@ -1,0 +1,10 @@
+query viewer {
+  viewer {
+    _id
+    emailRecords {
+      address
+    }
+    name
+    primaryEmailAddress
+  }
+}

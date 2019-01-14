@@ -1,0 +1,227 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`basic snapshot 1`] = `
+Array [
+  <div
+    className="MuiGrid-container-9"
+  >
+    <div
+      className="MuiGrid-item-10 MuiGrid-grid-xs-12-49 SkProductDetailAddToCart-quantityGrid-5"
+    >
+      <div
+        className="SkDivider-container-106"
+      >
+        <hr
+          className="SkDivider-item-108"
+        />
+        <hr
+          className="SkDivider-item-108"
+        />
+      </div>
+      <span
+        className="MuiTypography-root-109 MuiTypography-body1-118 SkProductDetailAddToCart-quantityTypography-8"
+      >
+        Quantity
+      </span>
+      <div
+        aria-describedby={undefined}
+        className="MuiFormControl-root-135"
+      >
+        <div
+          className="MuiInputBase-root-152 MuiInput-root-139 SkProductDetailAddToCart-quantityContainer-4 MuiInputBase-formControl-153 MuiInput-formControl-140 MuiInputBase-adornedStart-156 MuiInputBase-adornedEnd-157"
+          onClick={[Function]}
+        >
+          <div
+            className="MuiInputAdornment-root-169"
+          >
+            <button
+              className="MuiButtonBase-root-173 SkProductDetailAddToCart-incrementButton-3"
+              color="default"
+              disabled={undefined}
+              onBlur={[Function]}
+              onClick={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              onKeyUp={[Function]}
+              onMouseDown={[Function]}
+              onMouseLeave={[Function]}
+              onMouseUp={[Function]}
+              onTouchEnd={[Function]}
+              onTouchMove={[Function]}
+              onTouchStart={[Function]}
+              tabIndex="0"
+              type="button"
+              variant="outlined"
+            >
+              <svg
+                aria-hidden="true"
+                className="MuiSvgIcon-root-176 SkProductDetailAddToCart-quantitySvg-7"
+                color={undefined}
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M19,13H5V11H19V13Z"
+                />
+              </svg>
+              <span
+                className="MuiTouchRipple-root-185"
+              />
+            </button>
+          </div>
+          <input
+            aria-invalid={false}
+            autoComplete={undefined}
+            autoFocus={undefined}
+            className="MuiInputBase-input-162 MuiInput-input-147 SkProductDetailAddToCart-quantityInput-6 MuiInputBase-inputAdornedStart-167 MuiInputBase-inputAdornedEnd-168"
+            defaultValue={undefined}
+            disabled={false}
+            id="addToCartQuantityInput"
+            name={undefined}
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            onKeyDown={undefined}
+            onKeyUp={undefined}
+            placeholder={undefined}
+            readOnly={undefined}
+            required={false}
+            rows={undefined}
+            type="text"
+            value={1}
+          />
+          <div
+            className="MuiInputAdornment-root-169"
+          >
+            <button
+              className="MuiButtonBase-root-173 SkProductDetailAddToCart-incrementButton-3"
+              color="default"
+              disabled={undefined}
+              onBlur={[Function]}
+              onClick={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              onKeyUp={[Function]}
+              onMouseDown={[Function]}
+              onMouseLeave={[Function]}
+              onMouseUp={[Function]}
+              onTouchEnd={[Function]}
+              onTouchMove={[Function]}
+              onTouchStart={[Function]}
+              tabIndex="0"
+              type="button"
+              variant="outlined"
+            >
+              <svg
+                aria-hidden="true"
+                className="MuiSvgIcon-root-176 SkProductDetailAddToCart-quantitySvg-7"
+                color={undefined}
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M19,13H13V19H11V13H5V11H11V5H13V11H19V13Z"
+                />
+              </svg>
+              <span
+                className="MuiTouchRipple-root-185"
+              />
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-item-10 MuiGrid-grid-xs-12-49"
+    >
+      <button
+        className="MuiButtonBase-root-173 SkProductDetailAddToCart-addToCartButton-1"
+        disabled={undefined}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex="0"
+        type="button"
+      >
+        <span
+          className="MuiTypography-root-109 MuiTypography-body1-118 SkProductDetailAddToCart-addToCartText-2"
+        >
+          Add to cart
+        </span>
+        <span
+          className="MuiTouchRipple-root-185"
+        />
+      </button>
+    </div>
+  </div>,
+  <div
+    className="HiddenCss-mdUp-207"
+  >
+    <div
+      className="SkCartPopover-container-192 SkCartPopover-isContainerHidden-194"
+    >
+      <div
+        className="MuiGrid-container-9 MuiGrid-spacing-xs-24-33 SkCartPopover-gridContainer-193"
+      >
+        <div
+          className="MuiGrid-item-10 MuiGrid-grid-xs-12-49 SkCartPopover-containerItem-196"
+        >
+          <img
+            alt="Item Title"
+            className="SkCartPopover-addedToCartImg-197"
+            src="//placehold.it/100"
+          />
+          <span
+            className="MuiTypography-root-109 MuiTypography-body1-118 SkCartPopover-addedToCartText-199"
+          >
+            10
+             "
+            <span
+              className="SkCartPopover-addedToCartItemName-198"
+            >
+              Item Title
+            </span>
+            " added to cart
+          </span>
+        </div>
+        <div
+          className="MuiGrid-item-10 MuiGrid-grid-xs-12-49"
+        >
+          <div
+            className="Button__ButtonDiv-bnfrK eloVkm"
+            onClick={[Function]}
+            onKeyPress={[Function]}
+            role="button"
+            tabIndex={0}
+            title={undefined}
+          >
+            <div>
+              Checkout
+            </div>
+            <div
+              className="Button__SpinnerWrap-bgOcuM cCKgPo"
+              style={
+                Object {
+                  "opacity": 0,
+                  "paddingLeft": 0,
+                  "width": 0,
+                }
+              }
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+]
+`;
